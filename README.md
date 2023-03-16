@@ -1,3 +1,3 @@
 # Github-API
 
-**GitHub Pages: [click]https://gigatorvaldz.github.io/Github-API/ "click") **
+**GitHub Pages: [click](https://gigatorvaldz.github.io/Github-API/ "click") **
